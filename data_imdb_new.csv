@@ -56,3 +56,9 @@ bert-base-uncased	0.939
 ./finetuned-scrumbled-wikitext2-3e-4/checkpoint-4400	0.87992
 ./finetuned-scrumbled-wikitext2-3e-4/checkpoint-4480	0.8776
 ./finetuned-scrumbled-wikitext2-3e-4/checkpoint-4560	0.8796
+./finetuned-scrumbled-wikitext2-3e-4/checkpoint-4640	0.8808
+./finetuned-scrumbled-wikitext2-3e-4/checkpoint-4720	0.87892
+./finetuned-scrumbled-wikitext2-3e-4/checkpoint-4800	0.87904
+./finetuned-scrumbled-wikitext2-3e-4/checkpoint-4880	0.87984
+./finetuned-scrumbled-wikitext2-3e-4/checkpoint-4960	0.876
+./finetuned-scrumbled-wikitext2-3e-4/checkpoint-5040	0.87936
