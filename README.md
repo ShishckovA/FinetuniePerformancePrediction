@@ -5,7 +5,7 @@ A repository for research paper "Predicting finetune quality using TDA". Here we
 There are two main feature types: 
 
 1. Probing results. Probing results are calculated using run_senteval.ipynb
-2. Topological data of attention features. This is collected using count_model_features.ipynb.
+2. Topological data of attention features. This is collected using count_probing_results.ipynb.
 
 To collect data (find models that achieve vatient quality on target dataset), we use tangle_model_on_scrambled_wikipedia.ipynb. This notebook finetunes base model on scrambled Wikipedia, gradually decreasing quality of the model.
 
