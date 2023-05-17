@@ -1,6 +1,6 @@
-# Predicting finetune quality using TDA
+# Fine-tuning Performance Prediction Using Topological Feature Vector
 
-A repository for research paper "Predicting finetune quality using TDA". Here we calculate some features about model.
+A repository for research paper "Fine-tuning Performance Prediction Using Topological Feature Vector". Here we calculate some features about model.
 
 There are two main feature types: 
 
